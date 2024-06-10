@@ -226,6 +226,7 @@ Verilerinin tutulduğu bir bölüm oluşturuldu.
 
 -	 Cariler kendi hesaplarının yer aldığı arayüze erişim sağlayabiliyorlar. Admin ise tüm işlemlerin gerçekleştiği Personel Sayfasına erişim sağlayabiliyor.
 
+ İşlemlerin gerçekleştirilmesi için kullanılan arayüzlerin görselleri Screenshots klasöründe yer almaktadır.
 
 
 
