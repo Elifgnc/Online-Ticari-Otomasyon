@@ -1,4 +1,4 @@
-# Online-Ticari-Otomasyon
+# Online_Ticari_Otomasyon
 
 MATERYAL VE YÖNTEM
 
